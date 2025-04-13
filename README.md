@@ -45,7 +45,7 @@ I'm currently sharpening my skills in **Python, AI/ML**, and **Web Development**
 ## 🌐 Connect With Me!
 
 - 📫 **Email:** mohanraj96770110@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/mohanrajdev](https://linkedin.com/in/moganraj)  
+- 💼 **LinkedIn:** [linkedin.com/in/mohanraj](https://linkedin.com/in/moganraj)  
 - 👨‍💻  **HackerRank:** [Mohanraj](https://www.hackerrank.com/profile/mohanraj9677011)  
 - 🐦 **Resume:** [View My Resume](https://drive.google.com/file/d/1s5OECPzXPj51-WeXzzS1ye0ikpOX2och/view?usp=sharing)
 
